@@ -1,0 +1,12 @@
+.container {
+    background-color: lightskyblue
+}
+
+.col-3 {
+    border-color: darkorange;
+    border-style: double;
+}
+
+.gif {
+    text-align: center;
+}
